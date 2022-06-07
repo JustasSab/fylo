@@ -1,13 +1,17 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+    --body-font: 'Manrope', sans-serif;
+    --header-font: 'Raleway', sans-serif;
+
+    --gradient-CTA: linear-gradient(90deg, rgba(129,217,212,1) 0%, rgba(80,182,226,1) 90%);
+  
+    --color-bg: hsl(218, 28%, 13%);
+    --color-intro-email: hsl(217, 28%, 15%);
+    --color-testimonials: hsl(219, 30%, 18%); /* Atsiliepimai */
+    --color-footer : hsl(216, 53%, 9%);
+    --color-icon: hsl(176, 68%, 64%);
+    --color-text: #FFFF;
+    --color-error: hsl(0, 100%, 63%);
 }

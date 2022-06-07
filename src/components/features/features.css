@@ -1,0 +1,24 @@
+.features {
+    padding-top: 200px;
+    display: grid;
+    grid-gap: 8rem;
+    grid-template-columns: repeat(2, 1fr);
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+.features-card {
+    color: var(--color-text);
+}
+.features-card-text {
+    margin: 10px;
+    font-family: var(--header-font);
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 900px) {
+    .features {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 5rem;
+    }
+}

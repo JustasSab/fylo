@@ -1,0 +1,72 @@
+.header {
+    font-family: var(--header-font);
+    background: var(--color-intro-email);
+    padding-top: 100px;
+}
+.header-content {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.header-image img {
+    max-width: 100%;
+    height: auto;
+}
+.header-title,
+.header-text,
+.header-CTA {
+    color: var(--color-text);
+    margin: auto;
+    width: 60%;
+    margin-top: 3rem;
+}
+.header-title {
+    font-size: 2vw;
+}
+.header-text {
+    width: 45%;
+}
+.header-text p{
+    font-size: 18px;
+    opacity: 0.8;
+}
+.header-CTA {
+    margin-top: 2rem;
+}
+.header-CTA {
+    color: var(--color-text);
+    width: 20%;
+    height: 60px;
+    background: var(--gradient-CTA);
+    border-radius: 1.50rem;
+    border-color: none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 60px;
+}
+
+@media screen and (max-width: 900px) {
+    .header {
+        padding-top: 30px;
+    }
+    .header-title {
+        font-size: 18px;
+        width: auto;
+    }
+    .header-text {
+        font-size: 16px;
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .header-title h1 {
+        font-size: 16px;
+        width: auto;
+    }
+    .header-text {
+        font-size: 14px;
+        width: auto;
+    }
+}

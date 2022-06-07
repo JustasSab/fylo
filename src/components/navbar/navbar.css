@@ -1,0 +1,51 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem 6rem;
+    color: white;
+    font-family: var(--header-font);
+    background: var(--color-intro-email);
+}
+.navbar-brand {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+}
+.navbar-links_container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.navbar-links_container a {
+    text-decoration: none;
+    color: rgb(224, 224, 224);
+    margin: 0 1.5rem;
+    letter-spacing: 0.5px;
+}
+.navbar-links_container a:hover {
+    text-decoration: underline;
+    color: var(--color-text);
+    font-weight: 700;
+}
+.hamburger-icon {
+    display: none;
+}
+
+@media screen and (max-width: 900px) {
+    .navbar {
+        padding: 3rem 2rem;
+    }
+
+    .navbar-links_container a {
+        margin: 0 1rem;
+    }
+}
+@media screen and (max-width: 500px) {
+    .navbar-links_container {
+        display: none;
+    }
+    .hamburger-icon {
+        display: block;
+    }
+}
