@@ -10,4 +10,6 @@ My first project using ReactJS | Responsive Fylo landing page.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
+
+## Project Preview
  ![Social Media Dashboard preview](src/assets/design/desktop-preview.jpg)
