@@ -1,7 +1,9 @@
 # Fylo landing page
+ ![Social Media Dashboard preview](src/assets/design/desktop-preview.jpg)
+
 
 ## About The Project
-My first project using ReactJS | Responsive Fylo landing page.
+Responsive Fylo landing page | My first project using ReactJS.
 
 ## :hammer_and_wrench: Built With
 <div>
@@ -9,7 +11,3 @@ My first project using ReactJS | Responsive Fylo landing page.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
-
-
-## Project Preview
- ![Social Media Dashboard preview](src/assets/design/desktop-preview.jpg)
