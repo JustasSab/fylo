@@ -1,14 +1,39 @@
 .footer {
     background-color: var(--color-footer);
     margin-top: 100px;
-
 }
 .footer-content {
-
+    display: flex;
+    padding: 5rem;
+}
+.footer-left {
+    width: 30%;
+}
+.footer__text-container {
+    display: flex;
+    margin-top: 2rem;
+}
+.footer-text {
+    color: var(--color-text);
+    opacity: 0.8;
+    margin-left: 2rem;
 }
 .footer-list-container {
     display: flex;
 }
-.footer-text {
-    color: var(--color-text)
+.footer-list {
+    column-count: 2;
+}
+.footer-list-container ul li {
+    list-style: none;
+}
+.footer-contacts a,
+.footer-list a{
+    color: var(--color-text);
+    opacity: 0.8;
+    text-decoration: none;
+    line-height: 2.5;
+}
+.list-inline-item {
+    display: inline;
 }

@@ -15,7 +15,7 @@ const App = () => {
       <WhatFylo />
       <Testimonial />
       <Subscription />
-    <Footer/>
+      <Footer/>
   </div>
   )
 }
