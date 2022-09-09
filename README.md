@@ -1,5 +1,5 @@
 # Fylo landing page
-[I'm an inline-style link](https://justassab.github.io/fylo/)  
+[Preview Website](https://justassab.github.io/fylo/)  
 
 
  ![Social Media Dashboard preview](src/assets/design/desktop-preview.jpg)
