@@ -15,7 +15,7 @@ const Header = () => {
                 <div className="header-text">
                     <p>Fylo stores all your most important files in one secure location. Access them wherever you need, share and collaborate with friends family, and co-workers.</p>
                 </div>
-                <a class="header-CTA-button" href="/#">
+                <a class="header-CTA-button" href="#">
                     <button className="header-CTA">
                         Get Started
                     </button>

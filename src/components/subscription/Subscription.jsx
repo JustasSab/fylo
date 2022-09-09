@@ -18,7 +18,7 @@ const Subscription = () => {
                         </form>
                     </div>
                     <div>
-                        <a class="" href="/#">
+                        <a class="" href="#">
                             <button className="subscription-button">
                                 Get Started For Free
                             </button>
