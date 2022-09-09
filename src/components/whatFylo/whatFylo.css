@@ -43,10 +43,12 @@
     border-bottom: 1px solid var(--color-icon);
     padding-bottom: 5px;
 }
+.whatFylo-CTA a:hover{
+    opacity: 1;
+}
 .whatFylo-CTA a span img{
     padding-left: 5px;
 }
-
 
 @media screen and (max-width: 900px) {
     .whatFylo {

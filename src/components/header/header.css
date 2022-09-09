@@ -31,11 +31,9 @@
     opacity: 0.8;
 }
 .header-CTA {
-    margin-top: 2rem;
-}
-.header-CTA {
+    margin: 2rem 0 4rem 0;
     color: var(--color-text);
-    width: 20%;
+    width: 30%;
     height: 60px;
     background: var(--gradient-CTA);
     border-radius: 1.50rem;

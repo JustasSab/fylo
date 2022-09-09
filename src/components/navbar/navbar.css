@@ -1,4 +1,5 @@
 .navbar {
+    position: relative;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -31,7 +32,30 @@
 .hamburger-icon {
     display: none;
 }
-
+.navbar-mobile-menu_container-links {
+    position: absolute;
+    top: 120px;
+    left: 0;
+    width: 100%;
+    height: calc(100vh);
+    margin: auto;
+    background-color: var(--color-footer);
+    text-align: center;
+    padding: 50px;
+    z-index: 10;
+}
+.navbar-mobile-menu_container-links p{
+    margin: 30px;
+}
+.navbar-mobile-menu_container-links p:hover{
+    opacity: 0.5;
+}
+.navbar-mobile-menu_container-links a{
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: large;
+    
+}
 @media screen and (max-width: 900px) {
     .navbar {
         padding: 3rem 2rem;

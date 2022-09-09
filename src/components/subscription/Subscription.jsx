@@ -17,8 +17,8 @@ const Subscription = () => {
                             <input type="text" placeholder="email@example.com" id="email" name="email"></input>
                         </form>
                     </div>
-                    <div className="">
-                        <a class="" href="/">
+                    <div>
+                        <a class="" href="/#">
                             <button className="subscription-button">
                                 Get Started For Free
                             </button>

@@ -19,7 +19,7 @@ const WhatFylo = () => {
                         <p>Morbi ut velit nec ex dapibus elementum vel euismod nisl. Ut et ornare sem. Quisque id nisl nunc. Praesent et ex ante. Nunc at pretium.</p>
                     </div>
                     <div className="whatFylo-CTA">
-                        <a href="/">See how Fylo works 
+                        <a href="/#">See how Fylo works 
                             <span>
                                 <img src={arrow} alt="illustration"/>
                             </span>
