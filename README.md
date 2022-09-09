@@ -1,5 +1,5 @@
 # Fylo landing page
-[Preview Website](https://justassab.github.io/fylo/)
+**[Preview Website](https://justassab.github.io/fylo/)**
 
 ## About The Project
 Responsive Fylo landing page | My first project using ReactJS.
