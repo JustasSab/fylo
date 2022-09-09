@@ -1,5 +1,5 @@
 # Fylo landing page
-[Preview Website](https://justassab.github.io/fylo/)
+**[Preview Website](https://justassab.github.io/fylo/)**
 
 ## About The Project
 Responsive Fylo landing page | My first project using ReactJS.
@@ -11,4 +11,4 @@ Responsive Fylo landing page | My first project using ReactJS.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
- ![Social Media Dashboard preview](src/assets/design/desktop-preview.jpg)
+![Social Media Dashboard preview](src/assets/design/desktop-preview.jpg)
